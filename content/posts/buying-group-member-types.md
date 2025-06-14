@@ -4,13 +4,13 @@ draft = false
 title = ''
 +++
 
-## Buying Group Member Types
+# Buying Group Member Types
 
-you spend a lot of time and money being a supplier to a buying group
+You spend a tremendous amount of time and money being a supplier to a buying group.
 
-you neet to make sure you maximize the benefit
+One of the most important things you can do to get the most out of a group, is to be aware of the most common types of members, and the best way to work with each of these types.
 
-one way to do this is to be aware of three different types of buying group distributor members
+There are three main types of buying group distributor members:
 
 * Charlie Cherrypicker
 * Oscar Opportunistic
